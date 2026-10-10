@@ -1,0 +1,3 @@
+{ "name": "inertia-react-types-react-repro", "private": true, "type": "module", "scripts": { "typecheck": "tsc" },
+  "dependencies": { "@inertiajs/react": "3.9.1", "react": "^19.2.0", "react-dom": "^19.2.0" },
+  "devDependencies": { "@types/react": "^19.2.0", "@types/react-dom": "^19.2.0", "typescript": "^5.9.0" } }
